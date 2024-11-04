@@ -7,7 +7,7 @@ const activeChains = [
   {
     chainId: 1116,
     name: "Core Network",
-    rpc: ["https://rpc.core.com"],
+    rpc: ["https://rpc.coredao.org"],
     nativeCurrency: {
       name: "Core",
       symbol: "CORE",
