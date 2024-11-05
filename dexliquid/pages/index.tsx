@@ -40,7 +40,7 @@ const networks: Network[] = [
 const contractAddresses: Record<NetworkId, { TOKEN_CONTRACT: string; DEX_CONTRACT: string }> = {
   [NetworkId.Core]: {
     TOKEN_CONTRACT: "0x743b30c4645612a3a22AaE2b19A051b478B60cCa",
-    DEX_CONTRACT: "0x5f16053137B88cAB27315653936c3Ff439d7d8B5",
+    DEX_CONTRACT: "0x8f2483DC492988738c0ccEFD3fC75a79d7dC29fC",
   },
   [NetworkId.Xdc]: {
     TOKEN_CONTRACT: "0x32bb1c8Be72bB0e826d02d4905eC09F3DAdD5587",
